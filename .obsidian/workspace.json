@@ -35,7 +35,8 @@
               "title": "Conservative Party"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -197,10 +198,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "25a202bed9a0f9c4",
+  "active": "e3770c025b1691d1",
   "lastOpenFiles": [
-    "School/St. Catherine/Social Studies/Power & Authority/Party Research/Conservative Party.md",
     "School/St. Catherine/Social Studies/Power & Authority/Party Research/Bloc Québécois.md",
+    "School/St. Catherine/Social Studies/Power & Authority/Party Research/Conservative Party.md",
+    "School/St. Catherine/Social Studies/Power & Authority/Party Research/New Democratic Party.md",
+    "School/St. Catherine/Social Studies/Power & Authority/Party Research/Liberal Party.md",
+    "School/St. Catherine/Social Studies/Power & Authority/Party Research/Green Party.md",
     "Untitled",
     "School/St. Catherine/Social Studies/Power & Authority",
     "School/St. Catherine/Social Studies/Power & Authority/Party Research",
