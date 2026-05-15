@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/St. Catherine/Social Studies/Power & Authority/Party Research/Bloc Quebecois.md",
+                "file": "School/St. Catherine/Social Studies/Power & Authority/Party Research/Bloc Québécois.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bloc Quebecois"
+              "title": "Bloc Québécois"
             }
           },
           {
@@ -35,8 +35,7 @@
               "title": "Conservative Party"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/St. Catherine/Social Studies/Power & Authority/Party Research/Conservative Party.md",
+                "file": "School/St. Catherine/Social Studies/Power & Authority/Party Research/Bloc Québécois.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Conservative Party"
+              "title": "Backlinks for Bloc Québécois"
             }
           },
           {
@@ -128,12 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/St. Catherine/Social Studies/Power & Authority/Party Research/Conservative Party.md",
+                "file": "School/St. Catherine/Social Studies/Power & Authority/Party Research/Bloc Québécois.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Conservative Party"
+              "title": "Outgoing links from Bloc Québécois"
             }
           },
           {
@@ -171,13 +170,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/St. Catherine/Social Studies/Power & Authority/Party Research/Conservative Party.md",
+                "file": "School/St. Catherine/Social Studies/Power & Authority/Party Research/Bloc Québécois.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Conservative Party"
+              "title": "Outline of Bloc Québécois"
             }
           }
         ]
@@ -198,10 +197,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "e3770c025b1691d1",
+  "active": "25a202bed9a0f9c4",
   "lastOpenFiles": [
-    "School/St. Catherine/Social Studies/Power & Authority/Party Research/Bloc Quebecois.md",
     "School/St. Catherine/Social Studies/Power & Authority/Party Research/Conservative Party.md",
+    "School/St. Catherine/Social Studies/Power & Authority/Party Research/Bloc Québécois.md",
     "Untitled",
     "School/St. Catherine/Social Studies/Power & Authority",
     "School/St. Catherine/Social Studies/Power & Authority/Party Research",
